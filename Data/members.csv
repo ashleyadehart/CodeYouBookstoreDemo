@@ -1,0 +1,301 @@
+member_id,member_first_name,member_last_name,member_email,member_tier,member_join_date,member_city,member_state
+260,Casey,Jackson,casey.jackson260@email.com,Platinum,2018-12-09,New York,WA
+292,Marcus,Walker,marcus.walker292@email.com,Platinum,2020-06-11,Portland,CO
+30,Bailey,Anderson,bailey.anderson30@email.com,Bronze,2018-05-26,Austin,TX
+185,Ethan,King,ethan.king185@email.com,Bronze,2018-01-05,Portland,CA
+238,Kenji,Scott,kenji.scott238@email.com,Gold,2022-10-28,Coral Gables,OR
+16,Hector,Green,hector.green16@email.com,Gold,2023-03-16,Coral Gables,FL
+91,Ethan,Walker,ethan.walker91@email.com,Silver,2018-05-25,Cambridge,CA
+84,Kenji,White,kenji.white84@email.com,Silver,2022-04-20,Cambridge,CA
+146,Alex,Davis,alex.davis146@email.com,Gold,2020-07-19,Menlo Park,MA
+293,Iris,Jackson,iris.jackson293@email.com,Platinum,2016-08-12,Portland,IA
+106,Uma,Jones,uma.jones106@email.com,Silver,2022-08-05,St. Louis,TX
+5,Bailey,Jackson,bailey.jackson5@email.com,Bronze,2019-03-19,San Francisco,CA
+141,Sam,Walker,sam.walker141@email.com,Platinum,2018-01-05,Iowa City,WA
+130,Yara,King,yara.king130@email.com,Silver,2019-12-13,Iowa City,NY
+204,Wren,Moore,wren.moore204@email.com,Bronze,2016-01-17,Austin,NC
+192,Rosa,Scott,rosa.scott192@email.com,Platinum,2023-01-03,Austin,CA
+153,Victor,Walker,victor.walker153@email.com,Bronze,2016-11-08,Iowa City,CA
+142,Carlos,Walker,carlos.walker142@email.com,Platinum,2016-01-17,Asheville,MO
+72,Diana,Brown,diana.brown72@email.com,Gold,2015-01-22,Seattle,CA
+133,Yara,Scott,yara.scott133@email.com,Silver,2017-08-28,St. Louis,FL
+299,Grace,Green,grace.green299@email.com,Platinum,2019-07-26,Asheville,CA
+114,Victor,Baker,victor.baker114@email.com,Gold,2020-06-27,Coral Gables,IA
+184,Lila,Thompson,lila.thompson184@email.com,Gold,2020-10-19,Denver,CA
+286,Ethan,Green,ethan.green286@email.com,Gold,2021-09-03,Menlo Park,MO
+172,Lila,Anderson,lila.anderson172@email.com,Platinum,2016-06-24,Coral Gables,IA
+158,Wren,Garcia,wren.garcia158@email.com,Bronze,2020-05-10,Austin,IA
+300,Alex,Williams,alex.williams300@email.com,Silver,2020-10-11,New York,MA
+28,Victor,Lewis,victor.lewis28@email.com,Bronze,2021-10-05,New York,TX
+242,Amara,Thompson,amara.thompson242@email.com,Bronze,2020-05-11,Menlo Park,FL
+272,Tara,Martin,tara.martin272@email.com,Bronze,2017-03-28,Portland,TX
+103,Omar,Scott,omar.scott103@email.com,Platinum,2017-04-27,Menlo Park,WA
+162,Fatima,Harris,fatima.harris162@email.com,Silver,2018-12-09,San Francisco,MO
+171,Hector,Martin,hector.martin171@email.com,Bronze,2022-02-26,Asheville,OR
+3,Blake,Taylor,blake.taylor3@email.com,Silver,2019-08-02,Denver,CA
+82,Grace,Harris,grace.harris82@email.com,Silver,2016-03-14,Cambridge,OR
+223,Diana,Williams,diana.williams223@email.com,Bronze,2020-03-03,Denver,FL
+245,Sam,Allen,sam.allen245@email.com,Bronze,2016-08-03,Asheville,CA
+10,Omar,Thomas,omar.thomas10@email.com,Gold,2016-09-27,Austin,MO
+116,Bailey,Harris,bailey.harris116@email.com,Silver,2021-12-03,San Francisco,MO
+53,Carlos,Thomas,carlos.thomas53@email.com,Platinum,2019-07-22,Coral Gables,TX
+34,Lila,Taylor,lila.taylor34@email.com,Gold,2017-12-07,Asheville,WA
+267,Kenji,Davis,kenji.davis267@email.com,Platinum,2017-02-17,St. Louis,NC
+69,Victor,Jackson,victor.jackson69@email.com,Gold,2015-12-18,Austin,MO
+207,Carlos,Robinson,carlos.robinson207@email.com,Bronze,2021-05-14,Iowa City,CA
+109,Fatima,Walker,fatima.walker109@email.com,Platinum,2022-05-16,Iowa City,OR
+64,Ethan,Scott,ethan.scott64@email.com,Bronze,2022-09-24,Asheville,MO
+131,Xander,Green,xander.green131@email.com,Silver,2022-05-01,Cambridge,OR
+56,Rosa,Martin,rosa.martin56@email.com,Bronze,2015-08-18,St. Louis,CO
+60,Victor,Moore,victor.moore60@email.com,Bronze,2021-02-02,Denver,CA
+215,Ethan,Brown,ethan.brown215@email.com,Silver,2022-12-22,Menlo Park,IA
+145,Wren,Thomas,wren.thomas145@email.com,Platinum,2015-09-17,Austin,IA
+210,Hector,Brown,hector.brown210@email.com,Silver,2017-04-10,Coral Gables,NY
+107,Quinn,Miller,quinn.miller107@email.com,Silver,2021-03-10,Menlo Park,NC
+7,Rosa,Jackson,rosa.jackson7@email.com,Silver,2020-12-06,St. Louis,TX
+253,Kenji,Scott,kenji.scott253@email.com,Silver,2021-11-09,San Francisco,FL
+52,Tara,Thompson,tara.thompson52@email.com,Gold,2017-10-30,Cambridge,IA
+136,Lila,Young,lila.young136@email.com,Silver,2018-02-25,Menlo Park,MO
+21,Victor,Jackson,victor.jackson21@email.com,Gold,2020-11-18,St. Louis,IA
+219,Alex,Wright,alex.wright219@email.com,Silver,2017-06-29,Austin,IA
+71,Zoe,Walker,zoe.walker71@email.com,Platinum,2016-09-23,Menlo Park,CA
+225,Marcus,Hall,marcus.hall225@email.com,Silver,2019-10-14,Menlo Park,TX
+176,Quinn,Wright,quinn.wright176@email.com,Platinum,2019-08-29,St. Louis,IA
+234,Blake,Scott,blake.scott234@email.com,Gold,2020-04-16,Coral Gables,TX
+68,Rosa,Jackson,rosa.jackson68@email.com,Silver,2019-11-04,San Francisco,FL
+214,Zoe,Hall,zoe.hall214@email.com,Bronze,2018-05-31,Austin,CA
+15,Yara,Baker,yara.baker15@email.com,Silver,2015-08-20,Asheville,MA
+250,Sam,Green,sam.green250@email.com,Platinum,2016-12-19,Cambridge,MO
+134,Wren,Thomas,wren.thomas134@email.com,Platinum,2022-12-21,Denver,FL
+269,James,Wilson,james.wilson269@email.com,Bronze,2016-01-28,Iowa City,FL
+174,Amara,Robinson,amara.robinson174@email.com,Bronze,2015-10-04,Cambridge,TX
+49,Quinn,King,quinn.king49@email.com,Gold,2018-01-30,Portland,NC
+178,James,Brown,james.brown178@email.com,Silver,2020-09-25,Denver,NC
+81,Lila,Moore,lila.moore81@email.com,Platinum,2017-10-07,Coral Gables,FL
+85,Tara,Allen,tara.allen85@email.com,Platinum,2017-04-02,Menlo Park,CO
+170,Blake,Scott,blake.scott170@email.com,Platinum,2017-09-07,Iowa City,NY
+194,Sam,Thomas,sam.thomas194@email.com,Bronze,2016-05-04,Denver,TX
+228,Priya,White,priya.white228@email.com,Platinum,2021-03-05,Portland,NY
+1,Xander,Davis,xander.davis1@email.com,Bronze,2021-06-26,Portland,IA
+156,Carlos,Garcia,carlos.garcia156@email.com,Silver,2021-08-28,Asheville,CA
+115,Tara,Jackson,tara.jackson115@email.com,Bronze,2021-08-01,Menlo Park,CA
+243,Grace,Scott,grace.scott243@email.com,Gold,2016-06-18,St. Louis,CO
+59,Casey,Robinson,casey.robinson59@email.com,Gold,2020-05-01,Portland,NY
+175,Blake,Williams,blake.williams175@email.com,Gold,2019-06-19,San Francisco,MO
+268,Xander,King,xander.king268@email.com,Gold,2021-01-21,San Francisco,MA
+62,Drew,Brown,drew.brown62@email.com,Silver,2018-05-10,Coral Gables,TX
+259,Omar,King,omar.king259@email.com,Silver,2019-09-15,Iowa City,WA
+25,Quinn,Garcia,quinn.garcia25@email.com,Silver,2019-05-10,Cambridge,TX
+261,Zoe,Baker,zoe.baker261@email.com,Silver,2021-06-25,Denver,WA
+66,Kenji,Lewis,kenji.lewis66@email.com,Platinum,2021-11-19,Menlo Park,OR
+165,Marcus,Thomas,marcus.thomas165@email.com,Gold,2019-10-25,Denver,TX
+128,Sam,King,sam.king128@email.com,Bronze,2020-07-21,Coral Gables,NY
+263,Iris,Jones,iris.jones263@email.com,Gold,2015-10-31,Denver,IA
+161,Victor,Garcia,victor.garcia161@email.com,Bronze,2015-10-08,Coral Gables,CA
+177,Carlos,Walker,carlos.walker177@email.com,Silver,2021-01-06,Cambridge,NY
+92,Ethan,Allen,ethan.allen92@email.com,Platinum,2019-09-30,New York,WA
+217,Amara,Jackson,amara.jackson217@email.com,Silver,2020-01-27,New York,WA
+75,Carlos,Thomas,carlos.thomas75@email.com,Bronze,2021-03-20,Coral Gables,FL
+83,Marcus,Anderson,marcus.anderson83@email.com,Platinum,2021-12-15,Menlo Park,WA
+32,Wren,Davis,wren.davis32@email.com,Silver,2019-06-13,Asheville,CA
+278,Sam,Williams,sam.williams278@email.com,Bronze,2016-09-11,New York,CA
+288,Marcus,Young,marcus.young288@email.com,Gold,2018-08-28,Asheville,WA
+122,Priya,Taylor,priya.taylor122@email.com,Silver,2016-07-28,Menlo Park,WA
+283,Casey,Thompson,casey.thompson283@email.com,Silver,2021-05-29,New York,WA
+227,Blake,Lewis,blake.lewis227@email.com,Silver,2021-12-11,San Francisco,MA
+189,Iris,Wright,iris.wright189@email.com,Bronze,2016-02-26,Austin,MO
+100,Marcus,Harris,marcus.harris100@email.com,Silver,2022-08-15,Menlo Park,OR
+96,Victor,Hall,victor.hall96@email.com,Silver,2018-12-25,San Francisco,FL
+239,Wren,Allen,wren.allen239@email.com,Silver,2018-12-11,Coral Gables,TX
+166,Iris,Walker,iris.walker166@email.com,Silver,2015-12-12,Asheville,FL
+155,Carlos,Allen,carlos.allen155@email.com,Bronze,2016-01-25,Austin,WA
+38,Sam,King,sam.king38@email.com,Gold,2019-09-07,Denver,TX
+95,Zoe,Thomas,zoe.thomas95@email.com,Bronze,2022-11-13,New York,TX
+213,James,Harris,james.harris213@email.com,Bronze,2017-12-21,New York,CO
+151,Drew,Garcia,drew.garcia151@email.com,Gold,2022-04-16,Denver,MA
+229,Iris,Jackson,iris.jackson229@email.com,Platinum,2016-07-16,Austin,CA
+132,Omar,Moore,omar.moore132@email.com,Bronze,2018-11-28,Seattle,NY
+265,Tara,Martin,tara.martin265@email.com,Bronze,2022-11-25,Iowa City,CA
+264,Fatima,King,fatima.king264@email.com,Bronze,2015-11-04,Menlo Park,FL
+4,Xander,Walker,xander.walker4@email.com,Gold,2019-09-18,Iowa City,WA
+110,Xander,Lewis,xander.lewis110@email.com,Platinum,2017-03-19,Coral Gables,IA
+276,Casey,Jackson,casey.jackson276@email.com,Silver,2019-02-22,Seattle,OR
+37,Xander,Garcia,xander.garcia37@email.com,Gold,2015-03-08,Asheville,FL
+129,Iris,Wright,iris.wright129@email.com,Gold,2021-02-02,Asheville,OR
+222,Casey,Walker,casey.walker222@email.com,Silver,2019-12-22,New York,CA
+274,James,Scott,james.scott274@email.com,Platinum,2019-06-17,Seattle,CA
+258,Zoe,Jones,zoe.jones258@email.com,Bronze,2023-01-29,Portland,IA
+45,Ethan,Green,ethan.green45@email.com,Silver,2022-01-27,New York,MO
+201,Uma,Green,uma.green201@email.com,Bronze,2022-10-11,Menlo Park,OR
+149,Uma,Scott,uma.scott149@email.com,Bronze,2020-02-26,New York,CO
+298,Nadia,Lewis,nadia.lewis298@email.com,Bronze,2022-03-29,Austin,WA
+121,Uma,Young,uma.young121@email.com,Silver,2022-10-11,Asheville,CO
+157,Omar,Johnson,omar.johnson157@email.com,Gold,2015-02-03,New York,IA
+187,Sam,Walker,sam.walker187@email.com,Platinum,2015-11-12,Seattle,NC
+127,Iris,Wilson,iris.wilson127@email.com,Gold,2021-01-11,Denver,WA
+246,Carlos,Thomas,carlos.thomas246@email.com,Platinum,2022-11-25,Coral Gables,NY
+144,Sam,Johnson,sam.johnson144@email.com,Platinum,2016-01-17,San Francisco,CA
+40,Uma,Hall,uma.hall40@email.com,Gold,2018-10-14,Seattle,MO
+19,Blake,Young,blake.young19@email.com,Silver,2021-08-20,San Francisco,CA
+77,Marcus,Wright,marcus.wright77@email.com,Silver,2015-12-13,Coral Gables,NC
+290,Ethan,Garcia,ethan.garcia290@email.com,Bronze,2021-05-09,New York,FL
+248,Nadia,Scott,nadia.scott248@email.com,Platinum,2022-03-03,San Francisco,CA
+33,Yara,Taylor,yara.taylor33@email.com,Platinum,2019-04-09,Asheville,CA
+233,Fatima,Johnson,fatima.johnson233@email.com,Silver,2018-07-30,Portland,MA
+297,James,King,james.king297@email.com,Gold,2019-12-20,Cambridge,MO
+257,Iris,Davis,iris.davis257@email.com,Bronze,2017-10-19,Menlo Park,MA
+118,Kenji,Jones,kenji.jones118@email.com,Gold,2017-09-04,New York,CO
+247,Kenji,Taylor,kenji.taylor247@email.com,Silver,2018-08-14,Denver,MO
+23,Priya,Wilson,priya.wilson23@email.com,Gold,2017-07-12,St. Louis,CO
+289,Drew,Baker,drew.baker289@email.com,Platinum,2015-02-20,New York,IA
+74,Nadia,Harris,nadia.harris74@email.com,Platinum,2021-03-31,New York,OR
+262,Carlos,Scott,carlos.scott262@email.com,Gold,2015-05-17,Portland,CA
+198,Zoe,Taylor,zoe.taylor198@email.com,Silver,2021-12-25,Seattle,CA
+50,Alex,Allen,alex.allen50@email.com,Platinum,2022-07-23,Denver,NY
+273,Fatima,Walker,fatima.walker273@email.com,Bronze,2018-04-10,Seattle,NY
+67,Uma,Moore,uma.moore67@email.com,Platinum,2020-01-20,Austin,CA
+221,Iris,Green,iris.green221@email.com,Bronze,2015-11-04,New York,TX
+196,Bailey,Taylor,bailey.taylor196@email.com,Gold,2018-06-26,New York,NC
+295,Priya,Moore,priya.moore295@email.com,Bronze,2019-03-06,Menlo Park,MA
+120,Ethan,Robinson,ethan.robinson120@email.com,Platinum,2019-04-21,Denver,WA
+193,Hector,White,hector.white193@email.com,Gold,2023-01-29,Cambridge,NY
+186,Zoe,White,zoe.white186@email.com,Bronze,2018-01-19,Cambridge,MO
+188,Lila,Williams,lila.williams188@email.com,Silver,2020-08-08,Menlo Park,CO
+105,James,Williams,james.williams105@email.com,Bronze,2022-12-21,Portland,CA
+27,Rosa,King,rosa.king27@email.com,Bronze,2017-02-19,Cambridge,IA
+47,Tara,Walker,tara.walker47@email.com,Platinum,2022-06-24,San Francisco,WA
+20,Nadia,Young,nadia.young20@email.com,Bronze,2020-07-23,Menlo Park,CA
+90,Alex,Allen,alex.allen90@email.com,Platinum,2015-10-11,San Francisco,WA
+266,Fatima,Lewis,fatima.lewis266@email.com,Silver,2019-11-14,Portland,NY
+203,Quinn,Wilson,quinn.wilson203@email.com,Platinum,2019-09-16,Portland,CO
+36,Lila,Anderson,lila.anderson36@email.com,Bronze,2019-08-23,Coral Gables,TX
+287,Drew,Scott,drew.scott287@email.com,Bronze,2015-10-02,Iowa City,NC
+113,Lila,Anderson,lila.anderson113@email.com,Platinum,2017-03-18,New York,MA
+181,Drew,White,drew.white181@email.com,Platinum,2016-04-20,Coral Gables,FL
+135,Ethan,Scott,ethan.scott135@email.com,Silver,2017-04-26,Portland,FL
+182,Blake,Taylor,blake.taylor182@email.com,Silver,2022-06-21,New York,OR
+98,Diana,Johnson,diana.johnson98@email.com,Gold,2016-02-08,Austin,NC
+124,Grace,Green,grace.green124@email.com,Platinum,2019-04-22,Iowa City,CA
+41,Uma,King,uma.king41@email.com,Platinum,2020-07-02,Denver,MO
+94,Drew,Baker,drew.baker94@email.com,Platinum,2022-10-04,Asheville,OR
+296,James,Moore,james.moore296@email.com,Bronze,2020-07-06,Austin,CO
+277,Iris,Harris,iris.harris277@email.com,Gold,2020-03-19,Austin,MA
+195,Zoe,Thompson,zoe.thompson195@email.com,Platinum,2015-07-08,New York,WA
+218,Diana,Scott,diana.scott218@email.com,Bronze,2016-07-26,Portland,OR
+206,Sam,Jones,sam.jones206@email.com,Silver,2020-09-01,San Francisco,IA
+139,Bailey,Walker,bailey.walker139@email.com,Silver,2016-06-03,Austin,CO
+216,Quinn,Williams,quinn.williams216@email.com,Gold,2022-08-05,Cambridge,CO
+51,Drew,Jones,drew.jones51@email.com,Silver,2020-11-17,Austin,TX
+102,Alex,King,alex.king102@email.com,Gold,2016-08-03,Cambridge,CA
+147,Kenji,Young,kenji.young147@email.com,Silver,2021-06-25,Coral Gables,WA
+173,Lila,Young,lila.young173@email.com,Silver,2022-08-29,Seattle,NY
+163,Ethan,White,ethan.white163@email.com,Platinum,2021-11-28,Austin,NY
+12,Hector,Davis,hector.davis12@email.com,Bronze,2015-10-03,Coral Gables,OR
+80,Nadia,Moore,nadia.moore80@email.com,Gold,2019-09-21,Seattle,NY
+183,Wren,Garcia,wren.garcia183@email.com,Bronze,2022-11-13,Denver,WA
+159,Carlos,King,carlos.king159@email.com,Bronze,2016-02-24,Menlo Park,CA
+46,Ethan,Johnson,ethan.johnson46@email.com,Platinum,2017-06-14,Menlo Park,OR
+70,Carlos,Brown,carlos.brown70@email.com,Silver,2018-01-02,Iowa City,MO
+252,Wren,Robinson,wren.robinson252@email.com,Bronze,2019-05-23,Denver,FL
+150,Omar,Harris,omar.harris150@email.com,Platinum,2015-01-03,Austin,MO
+123,Tara,Williams,tara.williams123@email.com,Bronze,2019-01-10,Seattle,CO
+140,Wren,Anderson,wren.anderson140@email.com,Platinum,2017-10-10,Seattle,CO
+138,Alex,Jones,alex.jones138@email.com,Platinum,2016-07-09,Portland,MA
+232,Zoe,Martin,zoe.martin232@email.com,Gold,2018-11-10,Iowa City,MA
+8,Alex,Johnson,alex.johnson8@email.com,Gold,2015-04-04,Seattle,CA
+256,Alex,Allen,alex.allen256@email.com,Gold,2022-07-07,Seattle,OR
+42,Zoe,Thomas,zoe.thomas42@email.com,Silver,2016-11-24,St. Louis,NC
+279,Lila,Scott,lila.scott279@email.com,Platinum,2021-01-26,Coral Gables,TX
+236,Alex,Scott,alex.scott236@email.com,Silver,2015-08-18,Coral Gables,IA
+282,Carlos,Jackson,carlos.jackson282@email.com,Bronze,2023-01-04,Asheville,FL
+58,Casey,Thompson,casey.thompson58@email.com,Silver,2015-06-24,Austin,MO
+86,Marcus,Anderson,marcus.anderson86@email.com,Platinum,2018-04-08,Coral Gables,TX
+125,Priya,White,priya.white125@email.com,Platinum,2022-12-18,Seattle,CO
+31,Xander,Jones,xander.jones31@email.com,Silver,2020-05-15,St. Louis,FL
+275,Iris,Brown,iris.brown275@email.com,Platinum,2022-03-14,Denver,CA
+99,Xander,Thompson,xander.thompson99@email.com,Silver,2021-04-04,Seattle,CA
+291,Yara,Jones,yara.jones291@email.com,Gold,2018-03-17,Iowa City,MA
+240,Alex,Scott,alex.scott240@email.com,Gold,2020-07-09,Denver,WA
+284,Fatima,Miller,fatima.miller284@email.com,Silver,2017-05-17,Denver,OR
+152,Carlos,Walker,carlos.walker152@email.com,Gold,2019-01-16,New York,CA
+55,Yara,Williams,yara.williams55@email.com,Platinum,2016-01-18,Iowa City,IA
+199,Sam,Martin,sam.martin199@email.com,Silver,2017-03-11,Denver,OR
+191,Priya,Thomas,priya.thomas191@email.com,Silver,2019-04-18,Denver,OR
+205,Nadia,Allen,nadia.allen205@email.com,Platinum,2019-03-06,St. Louis,NY
+167,Tara,King,tara.king167@email.com,Gold,2021-10-24,St. Louis,OR
+6,Bailey,Young,bailey.young6@email.com,Gold,2016-06-28,New York,CO
+26,Kenji,Walker,kenji.walker26@email.com,Platinum,2015-11-20,Menlo Park,NY
+202,Yara,Hall,yara.hall202@email.com,Gold,2019-03-22,New York,TX
+44,Alex,Baker,alex.baker44@email.com,Bronze,2015-11-01,Portland,IA
+13,Omar,Lewis,omar.lewis13@email.com,Bronze,2022-07-15,Austin,MO
+76,Zoe,Anderson,zoe.anderson76@email.com,Bronze,2019-04-27,Cambridge,IA
+57,Carlos,Martin,carlos.martin57@email.com,Gold,2019-11-13,Coral Gables,NY
+108,Nadia,Harris,nadia.harris108@email.com,Platinum,2017-08-07,San Francisco,CO
+73,Yara,Moore,yara.moore73@email.com,Silver,2016-02-23,New York,CO
+119,Lila,Allen,lila.allen119@email.com,Platinum,2016-08-02,Iowa City,FL
+251,Wren,Taylor,wren.taylor251@email.com,Silver,2016-06-05,St. Louis,OR
+117,Zoe,Taylor,zoe.taylor117@email.com,Bronze,2021-11-21,San Francisco,CO
+160,Casey,Taylor,casey.taylor160@email.com,Platinum,2016-07-15,Denver,CA
+104,Diana,Harris,diana.harris104@email.com,Platinum,2023-02-05,Menlo Park,NY
+61,Amara,Davis,amara.davis61@email.com,Silver,2021-08-01,St. Louis,IA
+14,Blake,Jackson,blake.jackson14@email.com,Silver,2019-12-03,Asheville,TX
+22,Nadia,Garcia,nadia.garcia22@email.com,Platinum,2018-05-13,Denver,NC
+126,Carlos,Robinson,carlos.robinson126@email.com,Silver,2015-05-07,Cambridge,OR
+231,Zoe,Johnson,zoe.johnson231@email.com,Gold,2019-04-16,Seattle,NC
+197,Omar,Johnson,omar.johnson197@email.com,Silver,2019-02-20,Cambridge,FL
+88,Drew,Robinson,drew.robinson88@email.com,Silver,2017-03-29,San Francisco,NC
+235,Fatima,Jones,fatima.jones235@email.com,Silver,2017-10-12,Cambridge,NC
+244,Drew,Scott,drew.scott244@email.com,Bronze,2018-08-18,Portland,CO
+179,Kenji,Jackson,kenji.jackson179@email.com,Bronze,2021-07-30,Cambridge,MO
+294,Casey,Anderson,casey.anderson294@email.com,Silver,2022-09-29,Portland,MO
+271,Amara,White,amara.white271@email.com,Gold,2015-12-25,San Francisco,CA
+148,Zoe,Anderson,zoe.anderson148@email.com,Bronze,2022-08-27,Portland,NY
+270,Rosa,Green,rosa.green270@email.com,Silver,2020-07-03,Portland,CA
+212,Nadia,Jones,nadia.jones212@email.com,Gold,2021-01-04,Austin,WA
+29,Zoe,Wright,zoe.wright29@email.com,Silver,2021-08-03,Seattle,TX
+17,Yara,Hall,yara.hall17@email.com,Silver,2018-08-06,Cambridge,CO
+168,Bailey,Baker,bailey.baker168@email.com,Gold,2022-05-20,Austin,NC
+280,Rosa,Williams,rosa.williams280@email.com,Platinum,2019-05-05,Asheville,CA
+97,Blake,Robinson,blake.robinson97@email.com,Platinum,2022-03-27,Menlo Park,IA
+87,Kenji,Jackson,kenji.jackson87@email.com,Platinum,2018-02-22,Menlo Park,NY
+190,Quinn,Johnson,quinn.johnson190@email.com,Bronze,2015-06-30,Austin,OR
+249,Fatima,Allen,fatima.allen249@email.com,Gold,2021-04-20,Austin,CA
+254,Diana,Martin,diana.martin254@email.com,Gold,2016-07-30,St. Louis,NY
+226,Drew,Miller,drew.miller226@email.com,Gold,2018-01-31,Seattle,CO
+211,Ethan,Jones,ethan.jones211@email.com,Platinum,2016-11-04,Seattle,CA
+180,Nadia,King,nadia.king180@email.com,Bronze,2017-09-04,Austin,NY
+18,Victor,Thompson,victor.thompson18@email.com,Platinum,2017-06-24,Cambridge,MA
+112,Yara,Allen,yara.allen112@email.com,Bronze,2015-09-14,Asheville,CO
+255,Hector,Thomas,hector.thomas255@email.com,Silver,2018-08-01,San Francisco,NY
+169,Tara,Thompson,tara.thompson169@email.com,Platinum,2017-02-11,Cambridge,CA
+200,Drew,White,drew.white200@email.com,Silver,2015-04-08,Asheville,CA
+9,Xander,Young,xander.young9@email.com,Platinum,2019-10-04,Austin,TX
+24,Zoe,Harris,zoe.harris24@email.com,Platinum,2015-08-25,Iowa City,NC
+65,Lila,Williams,lila.williams65@email.com,Platinum,2016-02-05,Austin,NY
+54,Wren,Wilson,wren.wilson54@email.com,Bronze,2018-05-13,San Francisco,CA
+241,Blake,Brown,blake.brown241@email.com,Silver,2015-08-19,Coral Gables,TX
+11,Yara,Jones,yara.jones11@email.com,Platinum,2015-05-12,Coral Gables,OR
+230,Casey,Scott,casey.scott230@email.com,Silver,2020-11-23,San Francisco,NC
+111,Marcus,Johnson,marcus.johnson111@email.com,Silver,2022-11-26,Austin,MA
+285,Nadia,Brown,nadia.brown285@email.com,Platinum,2022-08-30,Austin,CA
+220,Lila,Hall,lila.hall220@email.com,Bronze,2022-01-25,Coral Gables,FL
+208,Ethan,Wilson,ethan.wilson208@email.com,Gold,2018-04-09,Menlo Park,IA
+48,Amara,Johnson,amara.johnson48@email.com,Platinum,2020-12-19,Portland,OR
+154,James,King,james.king154@email.com,Silver,2022-11-04,Iowa City,CA
+43,Priya,Miller,priya.miller43@email.com,Bronze,2021-01-29,Asheville,OR
+209,Wren,Green,wren.green209@email.com,Gold,2018-08-29,Seattle,MA
+63,Sam,Green,sam.green63@email.com,Gold,2019-05-13,Iowa City,MO
+2,Lila,Allen,lila.allen2@email.com,Bronze,2015-09-19,New York,WA
+93,Tara,Martin,tara.martin93@email.com,Platinum,2021-07-12,Asheville,NC
+78,Fatima,Hall,fatima.hall78@email.com,Silver,2019-04-09,Denver,MA
+137,James,Taylor,james.taylor137@email.com,Gold,2021-06-03,Asheville,CA
+79,James,Moore,james.moore79@email.com,Silver,2020-07-12,New York,CO
+89,Amara,King,amara.king89@email.com,Silver,2020-03-05,Seattle,MA
+237,Lila,Green,lila.green237@email.com,Silver,2016-12-12,Austin,FL
+281,Bailey,Martin,bailey.martin281@email.com,Silver,2021-06-03,Seattle,MA
+224,Nadia,Green,nadia.green224@email.com,Platinum,2023-02-15,Seattle,OR
+164,Casey,Jones,casey.jones164@email.com,Bronze,2016-07-27,Coral Gables,MO
+143,Iris,Allen,iris.allen143@email.com,Platinum,2019-02-20,Seattle,CA
+39,Kenji,Wilson,kenji.wilson39@email.com,Silver,2019-04-05,Seattle,NC
+35,Omar,Jones,omar.jones35@email.com,Platinum,2023-02-07,Menlo Park,TX
+101,Priya,Jones,priya.jones101@email.com,Platinum,2018-04-25,New York,NY
